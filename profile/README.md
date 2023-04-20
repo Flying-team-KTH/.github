@@ -21,23 +21,23 @@ A quick tutorial on how to download a GitHub project from an organization using 
    cd ~/Desktop
    ```
 
-3. Use the `git clone` command to download the repository. For example, if the organization's name is **ExampleOrg** and the repository name is **TestRepository**, you can use the command:
+3. Use the `git clone` command to download the repository. For example, if the organization's name is **Flying-team-KTH** and the repository name is **TemplateRepository**, you can use the command:
 
    ```
-   git clone https://github.com/ExampleOrg/TestRepository.git
+   git clone https://github.com/Flying-team-KTH/TemplateRepository.git
    ```
 
-   This command will download the entire repository to a new folder named **TestRepository** in your current directory.
+   This command will download the entire repository to a new folder named **TemplateRepository** in your current directory.
 
-4. Once the repository has finished downloading, navigate into the **TestRepository** folder using the `cd` command:
+4. Once the repository has finished downloading, navigate into the **TemplateRepository** folder using the `cd` command:
 
    ```
-   cd TestRepository
+   cd TemplateRepository
    ```
 
 5. You should now be able to access the files in the repository and make any changes or modifications as needed.
 
-And that's it! You should now have the TestRepository project downloaded to your computer and ready to use.
+And that's it! You should now have the TemplateRepository project downloaded to your computer and ready to use.
 
 
 > **DISCLAIMER:** Git needs to be installed to one's PC to be able to do it.
